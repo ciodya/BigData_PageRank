@@ -11,11 +11,11 @@ README
   
       (Key) article_title: page title 
       
-        #set start=‘REVISION’, find the third space, move forward for one element.
+        #set start=â€˜REVISIONâ€™, find the third space, move forward for one element.
         
       (Value) time_stamp: the exact date and time of the revision
       
-        #set start=‘REVISION’, find the fifth space, move forward for one element.
+        #set start=â€˜REVISIONâ€™, find the fifth space, move forward for one element.
         
       (Value) MAIN: title of the outside links
       
